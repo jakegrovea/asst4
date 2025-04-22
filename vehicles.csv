@@ -1,0 +1,7 @@
+vehicle_id,driver_id,vehicle_type,capacity_kg,current_location,status
+V001,D001,Van,1508,Chicago,Active
+V002,D001,Truck,2971,Phoenix,Active
+V003,D003,Truck,2772,Chicago,Active
+V004,D004,Van,2847,Los Angeles,Active
+V005,D005,Truck,1327,Los Angeles,Active
+V006,D004,Van,2666,Houston,Active

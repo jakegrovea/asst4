@@ -1,0 +1,11 @@
+route_id,start_location,end_location,distance_km,estimated_duration_min,traffic_level
+R001,Phoenix,Los Angeles,1220,106,Medium
+R002,Houston,Los Angeles,2248,470,High
+R003,Houston,Phoenix,83,112,Medium
+R004,Chicago,Chicago,490,643,High
+R005,Houston,New York,1815,635,Medium
+R006,New York,New York,598,259,High
+R007,New York,Chicago,1133,431,High
+R008,Houston,Houston,1548,626,High
+R009,Phoenix,Phoenix,1701,355,Low
+R010,Houston,Houston,1548,135,Low

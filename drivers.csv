@@ -1,0 +1,6 @@
+driver_id,name,license_number,employment_status
+D001,Driver A,LIC1000,Active
+D002,Driver B,LIC1001,Active
+D003,Driver C,LIC1002,Active
+D004,Driver D,LIC1003,Inactive
+D005,Driver E,LIC1004,Active
